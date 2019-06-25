@@ -1,0 +1,84 @@
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe.config
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.pdb
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csprojAssemblyReference.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Properties.Resources.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csproj.GenerateResource.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csproj.CoreCompileInputs.cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.exe
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.pdb
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AdminDashboad.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UserDashboard.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Login.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UsersForm.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.DoctorsForm.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientsForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe.config
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.exe
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.pdb
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.pdb
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AccountsForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AdminDashboad.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.DoctorsForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.HistoryForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Login.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientsForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PrescriptionForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UserDashboard.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UsersForm.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Properties.Resources.resources
+C:\Users\Admin\Desktop\Care\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csproj.GenerateResource.Cache
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientView.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Transactions.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AppointmentForm.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Admitted.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AccountForm.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Appointment1.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PrescriptionForm.resources
+C:\Users\Zwavhudu Trev Mugeri\Desktop\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.HistoryForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe.config
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.pdb
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.pdb
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csprojResolveAssemblyReference.cache
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AccountForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AdminDashboad.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Admitted.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Appointment1.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AppointmentForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.DoctorsForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.HistoryForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Login.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientsForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientView.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PrescriptionForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Transactions.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UserDashboard.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UsersForm.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Properties.Resources.resources
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csproj.GenerateResource.Cache
+G:\All\From Laptop\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.exe
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe.config
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.exe
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\bin\Debug\CTU Care Treatment.pdb
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csprojResolveAssemblyReference.cache
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AccountForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AdminDashboad.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Admitted.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Appointment1.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.AppointmentForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.DoctorsForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.HistoryForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Login.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientsForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PatientView.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.PrescriptionForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.Transactions.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UserDashboard.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Forms.UsersForm.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU_Care_Treatment.Properties.Resources.resources
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.csproj.GenerateResource.Cache
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.exe
+F:\2019march\modern-responsive-website\CTU\System Development\Lawrence_Mugeri_PRG512F2\CTU Care Treatment\CTU Care Treatment\obj\Debug\CTU Care Treatment.pdb
